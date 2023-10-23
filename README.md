@@ -1,18 +1,38 @@
 # Distributed-Optimization
 
-We now focus on nonconvex nonsmooth optimization problems involving l0 norm, including
-
+We now focus on distributed/decentralized optimization problems over manifold constraints, including
+  - [Surveys](#Surveys)
   - [Manifold Optimization](#Manifold_Optimization)
+    - [Feasible Methods](#Feasible_Methods)
+    - [Infeasible Methods](#Infeasible_Methods)
   - [Distributed Optimization](#Distributed_Optimization)
+  - [Federated Learning](#Federated_Learning)
 - [Journals](#Journals)
   
 <strong> Last Update: October 22, 2023 </strong>
+
+
+<a name="Surveys" />
+
+## Surveys
+
+
+- [2020] A Brief Introduction to Manifold Optimization, Journal of the Operations Research Society of China, [[paper](https://link.springer.com/article/10.1007/s40305-020-00295-9)]
 
 
 
 <a name="Manifold_Optimization" />
 
 ## Manifold Optimization
+
+<a name="Feasible_Optimization" />
+
+## Feasible Methods
+
+<a name="Infeasible_Methods" />
+
+## Infeasible Methods
+
 - [2023] A Semismooth Newton Based Augmented Lagrangian Method for Nonsmooth Optimization on Matrix Manifolds, MP [[paper](https://link.springer.com/article/10.1007/s10107-022-01898-1)]
 - [2022] Fast and Accurate Optimization on the Orthogonal Manifold Without Retraction, ICAIS [[paper](https://proceedings.mlr.press/v151/ablin22a)]
 - [2022] CDOpt: A Python Package for A Class of Riemannian Optimization, arXiv [[paper](https://arxiv.org/abs/2212.02698)]
@@ -21,7 +41,6 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm, inc
 - [2021] Majorization-Minimization on the Stiefel Manifold With Application to Robust Sparse PCA, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/9354027)]
 - [2021] Clustering by Orthogonal NMF Model and Non-Convex Penalty Optimization, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/9508841)]
 - [2020] Proximal Gradient method for Nonsmooth Optimization over the Stiefel Manifold, SIOPT [[paper](https://epubs.siam.org/doi/abs/10.1137/18M122457X)] [[code](https://github.com/chenshixiang/ManPG)]
-- [2020] A Brief Introduction to Manifold Optimization, JOSRC [[paper](https://link.springer.com/article/10.1007/s40305-020-00295-9)]
 - [2019] Parallelizable Algorithms for Optimization Problems With Orthogonality Constraints, SISC [[paper](https://epubs.siam.org/doi/abs/10.1137/18M1221679)]
 - [2019] Structured Quasi-Newton Methods for Optimization With Orthogonality Constraints, SISC [[paper](https://epubs.siam.org/doi/abs/10.1137/18M121112X)]
 - [2018] A New First-Order Algorithmic Framework for Optimization Problems with Orthogonality Constraints, SIOPT [[paper](https://epubs.siam.org/doi/abs/10.1137/16M1098759)] [[code](https://epubs.siam.org/doi/abs/10.1137/16M1098759)]
@@ -34,8 +53,6 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm, inc
 <a name="Distributed_Optimization" />
 
 ## Distributed Optimization
-- [2023] Federated Learning via Inexact ADMM, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10040221)] [[code](https://github.com/ShenglongZhou/FedADMM)]
-- [2023] FedGiA: An Efficient Hybrid Algorithm for Federated Learning, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10106001)] [[code](https://github.com/ShenglongZhou/FedGiA)]
 - [2022] Decentralized Optimization Over the Stiefel Manifold by an Approximate Augmented Lagrangian Function, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/9798866)] [[code](http://lsec.cc.ac.cn/~liuxin/Solvers/DEST.zip)]
 - [2022] Distributed Adaptive Newton Methods with Global Superlinear Convergence, Automatica [[paper](https://www.sciencedirect.com/science/article/pii/S0005109821006865)]
 - [2022] Achieving Geometric Convergence for Distributed Optimization with Barzilai-Borwein Step Sizes, SCIS  [[paper](http://scis.scichina.com/en/2022/149204.pdf)]
@@ -50,7 +67,12 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm, inc
 - [2010] Distributed Stochastic Subgradient Projection Algorithms for Convex Optimization, JOTA [[paper](https://link.springer.com/article/10.1007/s10957-010-9737-7)]
 
 
+<a name="Federated_Learning" />
 
+## Federated Learning
+- [2023] Federated Learning via Inexact ADMM, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10040221)] [[code](https://github.com/ShenglongZhou/FedADMM)]
+- [2023] FedGiA: An Efficient Hybrid Algorithm for Federated Learning, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10106001)] [[code](https://github.com/ShenglongZhou/FedGiA)]
+- 
 <a name="Journals" />
 
 ## Journals
