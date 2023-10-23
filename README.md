@@ -1,12 +1,12 @@
 # Distributed-Optimization
 
 We now focus on distributed/decentralized optimization problems over manifold constraints, including
-  - [Surveys](#Surveys)
-  - [Manifold Optimization](#Manifold_Optimization)
-    - [Feasible Methods](#Feasible_Methods)
-    - [Infeasible Methods](#Infeasible_Methods)
-  - [Distributed Optimization](#Distributed_Optimization)
-  - [Federated Learning](#Federated_Learning)
+- [Surveys](#Surveys)
+- [Manifold Optimization](#Manifold_Optimization)
+- [Feasible Methods](#Feasible_Methods)
+ - [Infeasible Methods](#Infeasible_Methods)
+ - [Distributed Optimization](#Distributed_Optimization)
+ - [Federated Learning](#Federated_Learning)
 - [Journals](#Journals)
   
 <strong> Last Update: October 22, 2023 </strong>
