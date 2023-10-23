@@ -27,11 +27,11 @@ We now focus on distributed/decentralized optimization problems over manifold co
 
 <a name="Feasible_Optimization" />
 
-## Feasible Methods
+### Feasible Methods
 
 <a name="Infeasible_Methods" />
 
-## Infeasible Methods
+### Infeasible Methods
 
 - [2023] A Semismooth Newton Based Augmented Lagrangian Method for Nonsmooth Optimization on Matrix Manifolds, MP [[paper](https://link.springer.com/article/10.1007/s10107-022-01898-1)]
 - [2022] Fast and Accurate Optimization on the Orthogonal Manifold Without Retraction, ICAIS [[paper](https://proceedings.mlr.press/v151/ablin22a)]
