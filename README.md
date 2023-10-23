@@ -4,10 +4,6 @@ We now focus on nonconvex nonsmooth optimization problems involving l0 norm, inc
 
   - [Manifold Optimization](#Manifold_Optimization)
   - [Distributed Optimization](#Distributed_Optimization)
-- [Applications](#Applications)
-  - [Sparse PCA](#Sparse_PCA)
-  - [Rbust LDA](#Rbust_LDA)
-  - [Tensor_CCA](#Tensor_CCA)
 - [Journals](#Journals)
   
 <strong> Last Update: October 22, 2023 </strong>
