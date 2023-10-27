@@ -19,7 +19,7 @@ We now focus on distributed/decentralized optimization problems over manifold co
 
 - [2020] A Brief Introduction to Manifold Optimization, Journal of the Operations Research Society of China, [[paper](https://link.springer.com/article/10.1007/s40305-020-00295-9)]
 
-
+- [2023] A Communication-Efficient and Privacy-Aware Distributed Algorithm for Sparse PCA, Computational Optimization and Applications [[paper](https://link.springer.com/article/10.1007/s10589-023-00481-4)] [[code](http://lsec.cc.ac.cn/~liuxin/Solvers/DSSAL1.zip)]
 
 <a name="Manifold_Optimization" />
 
@@ -68,13 +68,21 @@ We now focus on distributed/decentralized optimization problems over manifold co
 - [2016] On the Convergence of Decentralized Gradient Descent, SIOPT [[paper](https://epubs.siam.org/doi/abs/10.1137/130943170)]
 - [2015] EXTRA: An Exact First-Order Algorithm for Decentralized Consensus Optimization, SIOPT [[paper](https://epubs.siam.org/doi/abs/10.1137/14096668X)]
 - [2010] Distributed Stochastic Subgradient Projection Algorithms for Convex Optimization, JOTA [[paper](https://link.springer.com/article/10.1007/s10957-010-9737-7)]
+- [2022] FAST-PCA: A Fast and Exact Algorithm for Distributed Principal Component Analysis, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/10012289)]
+- [2021] Communication-Efficient Distributed Covariance Sketch, With Application to Distributed PCA, Journal of Machine Learning Research [[paper](https://dl.acm.org/doi/abs/10.5555/3546258.3546338)]
+- [2021] Distributed Principal Component Analysis with Limited Communication, NIPS [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/1680e9fa7b4dd5d62ece800239bb53bd-Abstract.html)] [[code](https://github.com/IST-DASLab/QRGD)]
+- [2020] Communication-Efficient Distributed PCA by Riemannian Optimization, ICML [[paper](https://proceedings.mlr.press/v119/huang20e.html)]
 
+- [2018] A Review of Distributed Algorithms for Principal Component Analysis, P IEEE [[paper](https://ieeexplore.ieee.org/abstract/document/8425655)]
 
 <a name="Federated_Learning" />
 
 ## Federated Learning
 - [2023] Federated Learning via Inexact ADMM, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10040221)] [[code](https://github.com/ShenglongZhou/FedADMM)]
 - [2023] FedGiA: An Efficient Hybrid Algorithm for Federated Learning, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10106001)] [[code](https://github.com/ShenglongZhou/FedGiA)]
+
+- [2023] Communication-Efficient Federated Linear and Deep Generalized Canonical Correlation Analysis, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/10099447)] [[code](https://github.com/XiaoFuLab/federated_max_var_gcca)]
+
 - 
 <a name="Journals" />
 
