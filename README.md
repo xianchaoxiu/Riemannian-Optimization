@@ -31,6 +31,9 @@ We now focus on distributed/decentralized optimization problems over manifold co
 
 <a name="Infeasible_Methods" />
 
+- [2023] Learning to Optimize on Riemannian Manifolds, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/document/9925104)] [[code](https://github.com/zhigao2017/learningriemannianoptimization)]
+
+  
 ### Infeasible Methods
 
 - [2023] A Semismooth Newton Based Augmented Lagrangian Method for Nonsmooth Optimization on Matrix Manifolds, MP [[paper](https://link.springer.com/article/10.1007/s10107-022-01898-1)]
