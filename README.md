@@ -67,7 +67,6 @@ We now focus on distributed/decentralized optimization problems over manifold co
 
 ### Learning Algorithms
 - [2023] Learning to Optimize on Riemannian Manifolds, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9925104)] [[code](https://github.com/zhigao2017/learningriemannianoptimization)]
-- [2022] Learning to Optimize: A Primer and A Benchmark, Journal of Machine Learning Research [[paper](https://dl.acm.org/doi/abs/10.5555/3586589.3586778)] [[code](https://github.com/VITA-Group/Open-L2O)]
 - [2021] Orthogonal Deep Neural Networks, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/8877742)]
 - [2020] Learning to Optimize on SPD Manifolds, CVPR [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Gao_Learning_to_Optimize_on_SPD_Manifolds_CVPR_2020_paper.html)] [[code](https://github.com/zhigao2017/Learning-to-optimize-on-SPD-manifolds)]
 - [2018] Can We Gain More from Orthogonality Regularizations in Training Deep Networks?  NIPS [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/bf424cb7b0dea050a42b9739eb261a3a-Abstract.html)]
