@@ -4,7 +4,7 @@ We now focus on distributed/decentralized optimization problems over manifold co
 - [Surveys](#Surveys)
 - [Manifold Optimization](#Manifold_Optimization)
 - [Distributed Optimization](#Distributed_Optimization)
-- [Federated Learning](#Federated_Learning)
+- [Federated Optimization](#Federated_Optimization)
 - [Applications](#Applications)
 - [Journals](#Journals)
   
@@ -65,7 +65,7 @@ We now focus on distributed/decentralized optimization problems over manifold co
   
 
 
-### Learning Methods
+### Learning Algorithms
 - [2023] Learning to Optimize on Riemannian Manifolds, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9925104)] [[code](https://github.com/zhigao2017/learningriemannianoptimization)]
 - [2022] Learning to Optimize: A Primer and A Benchmark, Journal of Machine Learning Research [[paper](https://dl.acm.org/doi/abs/10.5555/3586589.3586778)] [[code](https://github.com/VITA-Group/Open-L2O)]
 - [2021] Orthogonal Deep Neural Networks, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/8877742)]
@@ -95,9 +95,9 @@ We now focus on distributed/decentralized optimization problems over manifold co
 
 
 
-<a name="Federated_Learning" />
+<a name="Federated_Optimization" />
 
-## Federated Learning
+## Federated Optimization
 - [2023] Federated Learning via Inexact ADMM, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10040221)] [[code](https://github.com/ShenglongZhou/FedADMM)]
 - [2023] FedGiA: An Efficient Hybrid Algorithm for Federated Learning, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10106001)] [[code](https://github.com/ShenglongZhou/FedGiA)]
 - [2023] Communication-Efficient Federated Linear and Deep Generalized Canonical Correlation Analysis, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/10099447)] [[code](https://github.com/XiaoFuLab/federated_max_var_gcca)]
