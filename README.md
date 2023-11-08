@@ -1,4 +1,4 @@
-# Distributed-Optimization
+# Distributed Optimization
 
 We now focus on distributed/decentralized optimization problems over manifold constraints.
 - [Surveys](#Surveys)
