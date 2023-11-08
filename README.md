@@ -47,9 +47,10 @@ We now focus on distributed/decentralized optimization problems over manifold co
 ### Infeasible Algorithms
 - [2023] A Riemannian Smoothing Steepest Descent Method for Non-Lipschitz Optimization on Submanifolds, Mathematics of Operations Research  [[paper](https://pubsonline.informs.org/doi/abs/10.1287/moor.2022.0286)]
 - [2023] An Exact Penalty Approach for Optimization with Nonnegative Orthogonality Constraints, Mathematical Programming [[paper](https://link.springer.com/article/10.1007/s10107-022-01794-8)]
-- [2023] A Semismooth Newton Based Augmented Lagrangian Method for Nonsmooth Optimization on Matrix Manifolds, Mathematical Programming [[paper](https://link.springer.com/article/10.1007/s10107-022-01898-1)]
+- [2023] A Semismooth Newton Based Augmented Lagrangian Method for Nonsmooth Optimization on Matrix Manifolds, Mathematical Programming [[paper](https://link.springer.com/article/10.1007/s10107-022-01898-1)] [[code](https://github.com/miskcoo/almssn)]
 - [2023] A Communication-Efficient and Privacy-Aware Distributed Algorithm for Sparse PCA, Computational Optimization and Applications [[paper](https://link.springer.com/article/10.1007/s10589-023-00481-4)] [[code](http://lsec.cc.ac.cn/~liuxin/Solvers/DSSAL1.zip)]
-- [2022] Riemannian Stochastic Proximal Gradient Methods for Nonsmooth Optimization Over the Stiefel Manifold, Journal of Machine Learning Research [[paper](https://dl.acm.org/doi/abs/10.5555/3586589.3586695)] 
+- [2022] Riemannian Stochastic Proximal Gradient Methods for Nonsmooth Optimization Over the Stiefel Manifold, Journal of Machine Learning Research [[paper](https://dl.acm.org/doi/abs/10.5555/3586589.3586695)]
+- [2022] A Manifold Inexact Augmented Lagrangian Method for Nonsmooth Optimization on Riemannian Submanifolds in Euclidean Space, IMA Journal of Numerical Analysis  [[paper](https://academic.oup.com/imajna/article-abstract/43/3/1653/6590238)] [[code](https://github.com/KKDeng/mialm_code_share)]
 - [2022] A Class of Smooth Exact Penalty Function Methods for Optimization Problems With Orthogonality Constraints, Optimization Methods and Software [[paper](https://www.tandfonline.com/doi/abs/10.1080/10556788.2020.1852236?journalCode=goms20)] [[code](https://stmopt.gitee.io/algorithm_description/PenCF_code.html)]
 - [2022] Decentralized Optimization Over the Stiefel Manifold by an Approximate Augmented Lagrangian Function, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/9798866)] [[code](http://lsec.cc.ac.cn/~liuxin/Solvers/DEST.zip)]
 - [2022] Fast and Accurate Optimization on the Orthogonal Manifold Without Retraction, International Conference on Artificial Intelligence and Statistics [[paper](https://proceedings.mlr.press/v151/ablin22a)]
@@ -108,7 +109,8 @@ We now focus on distributed/decentralized optimization problems over manifold co
   
 ## Applications
 - [2023] Discriminative subspace learning via optimization on Riemannian manifold, Pattern Recognition [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323001504)] [[code](https://github.com/ncclabsustech/MODA-algorithm)]
-- [2022] Learning Inter- and Intra-Manifolds for Matrix Factorization-Based Multi-Aspect Data Clustering, IEEE TKDE  [[paper](https://ieeexplore.ieee.org/document/9187560)] [[code](https://github.com/khanhluongds/Multi-viewClustering_DiMMA)]
+- [2022] Trace Lasso Regularization for Adaptive Sparse Canonical Correlation Analysis via Manifold Optimization Approach, IEEE TKDE  [[paper](https://ieeexplore.ieee.org/document/9187560)] [[code](https://github.com/KKDeng/ASCCA)]
+- [2022] Learning Inter- and Intra-Manifolds for Matrix Factorization-Based Multi-Aspect Data Clustering, IEEE TKDE  [[paper](https://link.springer.com/article/10.1007/s40305-022-00449-x)] [[code](https://github.com/khanhluongds/Multi-viewClustering_DiMMA)]
 - [2021] Deep Manifold Learning for Dynamic MR Imaging, IEEE TCI [[paper](https://ieeexplore.ieee.org/abstract/document/9632354)] [[code](https://github.com/Keziwen/Manifold_Net)]
 - [2020] An Alternating Manifold Proximal Gradient Method for Sparse Principal Component Analysis and Sparse Canonical Correlation Analysis, INFORMS Journal on Optimization [[paper](https://pubsonline.informs.org/doi/abs/10.1287/ijoo.2019.0032)] [[code](https://github.com/chenshixiang)]
 - [2019] Solving Partial Least Squares Regression via Manifold Optimization Approaches, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/8408735)] [[code](https://github.com/Haoran2014/PLSR_RM)]
