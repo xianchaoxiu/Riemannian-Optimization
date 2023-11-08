@@ -2,9 +2,9 @@
 
 We now focus on distributed/decentralized optimization problems over manifold constraints.
 - [Surveys](#Surveys)
-- [Manifold Optimization](#Manifold_Optimization)
-- [Distributed Optimization](#Distributed_Optimization)
-- [Federated Optimization](#Federated_Optimization)
+- [Manifold Learning](#Manifold_Learning)
+- [Distributed Learning](#Distributed_Learning)
+- [Federated Learning](#Federated_Learning)
 - [Applications](#Applications)
 - [Journals](#Journals)
   
@@ -27,9 +27,9 @@ We now focus on distributed/decentralized optimization problems over manifold co
 
 
   
-<a name="Manifold_Optimization" />
+<a name="Manifold_Learning" />
 
-## Manifold Optimization
+## Manifold Learning
 
 ### Feasible Algorithms
 - [2021] Multipliers Correction Methods for Optimization Problems Over the Stiefel Manifold, CSIAM Transactions on Applied Mathematics [[paper](https://www.global-sci.org/intro/article_detail/csiam-am/19448.html)] [[code](https://stmopt.gitee.io/algorithm_description/ProxOrth_code.html)]
@@ -73,9 +73,9 @@ We now focus on distributed/decentralized optimization problems over manifold co
 
 
 
-<a name="Distributed_Optimization" />
+<a name="Distributed_Learning" />
 
-## Distributed Optimization
+## Distributed Learning
 - [2023] A Communication-Efficient and Privacy-Aware Distributed Algorithm for Sparse PCA, Computational Optimization and Applications [[paper](https://link.springer.com/article/10.1007/s10589-023-00481-4)] [[code](http://lsec.cc.ac.cn/~liuxin/Solvers/DSSAL1.zip)]
 - [2022] Decentralized Optimization Over the Stiefel Manifold by an Approximate Augmented Lagrangian Function, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/9798866)] [[code](http://lsec.cc.ac.cn/~liuxin/Solvers/DEST.zip)]
 - [2022] Distributed Adaptive Newton Methods with Global Superlinear Convergence, Automatica [[paper](https://www.sciencedirect.com/science/article/pii/S0005109821006865)]
@@ -94,9 +94,9 @@ We now focus on distributed/decentralized optimization problems over manifold co
 
 
 
-<a name="Federated_Optimization" />
+<a name="Federated_Learning" />
 
-## Federated Optimization
+## Federated Learning
 - [2023] Federated Learning via Inexact ADMM, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10040221)] [[code](https://github.com/ShenglongZhou/FedADMM)]
 - [2023] FedGiA: An Efficient Hybrid Algorithm for Federated Learning, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10106001)] [[code](https://github.com/ShenglongZhou/FedGiA)]
 - [2023] Communication-Efficient Federated Linear and Deep Generalized Canonical Correlation Analysis, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/10099447)] [[code](https://github.com/XiaoFuLab/federated_max_var_gcca)]
