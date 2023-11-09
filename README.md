@@ -15,14 +15,14 @@ We now focus on distributed/decentralized optimization problems over manifold co
 
 ## Surveys
 
-- [2023] An Introduction to Optimization on Smooth Manifolds, Cambridge University Press [[book](https://www.nicolasboumal.net/book/)]
-- [2022] CDOpt: A Python Package for a Class of Riemannian Optimization, arXiv  [[paper](https://arxiv.org/abs/2212.02698)] [[code](https://cdopt.github.io/md_files/intro.html)]
-- [2021] A Comprehensive Survey of Privacy-preserving Federated Learning: A Taxonomy, Review, and Future Directions, ACM Computing Surveys [[paper](https://dl.acm.org/doi/abs/10.1145/3460427)]
-- [2020] Secure, Privacy-Preserving and Federated Machine Learning in Medical Imaging, Nature Machine Intelligence [[paper](https://www.nature.com/articles/s42256-020-0186-1)] 
-- [2019] Federated Machine Learning: Concept and Applications, ACM Transactions on Intelligent Systems and Technology  [[paper](https://dl.acm.org/doi/abs/10.1145/3298981)]
-- [2020] A Brief Introduction to Manifold Optimization, Journal of the Operations Research Society of China [[paper](https://link.springer.com/article/10.1007/s40305-020-00295-9)]
-- [2014]  Manopt, a Matlab Toolbox for Optimization on Manifolds, Journal of Machine Learning Research  [[paper](https://www.jmlr.org/papers/volume15/boumal14a/boumal14a.pdf)] [[code](https://www.manopt.org/)]
-- [2008] Optimization Algorithms on Matrix Manifolds, Princeton University Press [[book](https://press.princeton.edu/absil)]
+- [2023] An Introduction to Optimization on Smooth Manifolds, Cambridge University Press [[Book](https://www.nicolasboumal.net/book/)]
+- [2022] CDOpt: A Python Package for a Class of Riemannian Optimization, arXiv  [[Paper](https://arxiv.org/abs/2212.02698)] [[Python](https://cdopt.github.io/md_files/intro.html)]
+- [2021] A Comprehensive Survey of Privacy-preserving Federated Learning: A Taxonomy, Review, and Future Directions, ACM Computing Surveys [[Paper](https://dl.acm.org/doi/abs/10.1145/3460427)]
+- [2020] Secure, Privacy-Preserving and Federated Machine Learning in Medical Imaging, Nature Machine Intelligence [[Paper](https://www.nature.com/articles/s42256-020-0186-1)] 
+- [2019] Federated Machine Learning: Concept and Applications, ACM Transactions on Intelligent Systems and Technology  [[Paper](https://dl.acm.org/doi/abs/10.1145/3298981)]
+- [2020] A Brief Introduction to Manifold Optimization, Journal of the Operations Research Society of China [[Paper](https://link.springer.com/article/10.1007/s40305-020-00295-9)]
+- [2014]  Manopt, a Matlab Toolbox for Optimization on Manifolds, Journal of Machine Learning Research  [[Paper](https://www.jmlr.org/papers/volume15/boumal14a/boumal14a.pdf)] [[Matlab](https://www.manopt.org/)]
+- [2008] Optimization Algorithms on Matrix Manifolds, Princeton University Press [[Book](https://press.princeton.edu/absil)]
   
 
 
