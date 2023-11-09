@@ -22,7 +22,7 @@ We now focus on distributed/decentralized optimization problems over manifold co
 - [2019] Federated Machine Learning: Concept and Applications, ACM Transactions on Intelligent Systems and Technology  [[paper](https://dl.acm.org/doi/abs/10.1145/3298981)]
 - [2020] A Brief Introduction to Manifold Optimization, Journal of the Operations Research Society of China [[paper](https://link.springer.com/article/10.1007/s40305-020-00295-9)]
 - [2014]  Manopt, a Matlab Toolbox for Optimization on Manifolds, Journal of Machine Learning Research  [[paper](https://www.jmlr.org/papers/volume15/boumal14a/boumal14a.pdf)] [[code](https://www.manopt.org/)]
-- [2008] Optimization algorithms on matrix manifolds, Princeton University Press [[book](https://press.princeton.edu/absil)]
+- [2008] Optimization Algorithms on Matrix Manifolds, Princeton University Press [[book](https://press.princeton.edu/absil)]
   
 
 
