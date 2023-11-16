@@ -1,19 +1,19 @@
 # Distributed Optimization
 
 We now focus on distributed/decentralized optimization problems over manifold constraints.
-- [Surveys](#Surveys)
+- [Survey](#Survey)
 - [Manifold Learning](#Manifold_Learning)
 - [Distributed Learning](#Distributed_Learning)
 - [Federated Learning](#Federated_Learning)
-- [Applications](#Applications)
-- [Journals](#Journals)
+- [Application](#Application)
+- [Journal](#Journal)
   
 <strong> Last Update: 2023/11/8 </strong>
 
 
-<a name="Surveys" />
+<a name="Survey" />
 
-## Surveys
+## Survey
 
 - [2023] An Introduction to Optimization on Smooth Manifolds, Cambridge University Press [[Book](https://www.nicolasboumal.net/book/)] [[Video](https://www.nicolasboumal.net/book/index.html#lectures)]
 - [2022] CDOpt: A Python Package for a Class of Riemannian Optimization, arXiv  [[Paper](https://arxiv.org/abs/2212.02698)] [[Python](https://cdopt.github.io/md_files/intro.html)]
@@ -31,7 +31,7 @@ We now focus on distributed/decentralized optimization problems over manifold co
 
 ## Manifold Learning
 
-### Feasible Algorithms
+### Feasible Algorithm
 - [2021] Multipliers Correction Methods for Optimization Problems Over the Stiefel Manifold, CSIAM Transactions on Applied Mathematics [[Paper](https://www.global-sci.org/intro/article_detail/csiam-am/19448.html)] [[Matlab](https://stmopt.gitee.io/algorithm_description/ProxOrth_code.html)]
 - [2018] A New First-Order Algorithmic Framework for Optimization Problems with Orthogonality Constraints, SIAM Journal on Optimization [[Paper](https://epubs.siam.org/doi/abs/10.1137/16M1098759)] [[Matlab](https://www.mathworks.com/matlabcentral/fileexchange/71726-foforth)]
 - [2015] A Framework of Constraint Preserving Update Schemes for Optimization on Stiefel Manifold, Mathematical Programming [[Paper](https://link.springer.com/article/10.1007/s10107-014-0816-7)]
@@ -44,7 +44,7 @@ We now focus on distributed/decentralized optimization problems over manifold co
 - [1998] The Geometry of Algorithms With Orthogonality Constraints, SIAM Journal on Matrix Analysis and Applications [[Paper](https://epubs.siam.org/doi/abs/10.1137/S0895479895290954)]
 
 
-### Infeasible Algorithms
+### Infeasible Algorithm
 - [2023] A Riemannian Smoothing Steepest Descent Method for Non-Lipschitz Optimization on Submanifolds, Mathematics of Operations Research  [[Paper](https://pubsonline.informs.org/doi/abs/10.1287/moor.2022.0286)]
 - [2023] An Exact Penalty Approach for Optimization with Nonnegative Orthogonality Constraints, Mathematical Programming [[Paper](https://link.springer.com/article/10.1007/s10107-022-01794-8)]
 - [2023] A Semismooth Newton Based Augmented Lagrangian Method for Nonsmooth Optimization on Matrix Manifolds, Mathematical Programming [[Paper](https://link.springer.com/article/10.1007/s10107-022-01898-1)] [[Matlab](https://github.com/miskcoo/almssn)]
@@ -64,7 +64,7 @@ We now focus on distributed/decentralized optimization problems over manifold co
   
 
 
-### Learning Algorithms
+### Learning Algorithm
 - [2023] Learning to Optimize on Riemannian Manifolds, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9925104)] [[Python](https://github.com/zhigao2017/learningriemannianoptimization)]
 - [2021] Orthogonal Deep Neural Networks, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/8877742)] [[Python](https://github.com/Gorilla-Lab-SCUT/OrthDNNs)]
 - [2020] Learning to Optimize on SPD Manifolds, CVPR [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Gao_Learning_to_Optimize_on_SPD_Manifolds_CVPR_2020_paper.html)] [[Python](https://github.com/zhigao2017/Learning-to-optimize-on-SPD-manifolds)]
@@ -103,9 +103,9 @@ We now focus on distributed/decentralized optimization problems over manifold co
 
 
 
-<a name="Applications" />
+<a name="Application" />
   
-## Applications
+## Application
 - [2023] Discriminative subspace learning via optimization on Riemannian manifold, Pattern Recognition [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323001504)] [[Matlab](https://github.com/ncclabsustech/MODA-algorithm)]
 - [2022] Trace Lasso Regularization for Adaptive Sparse Canonical Correlation Analysis via Manifold Optimization Approach, IEEE TKDE  [[Paper](https://ieeexplore.ieee.org/document/9187560)] [[Matlab](https://github.com/KKDeng/ASCCA)]
 - [2022] Learning Inter- and Intra-Manifolds for Matrix Factorization-Based Multi-Aspect Data Clustering, IEEE TKDE  [[Paper](https://link.springer.com/article/10.1007/s40305-022-00449-x)] [[Matlab](https://github.com/khanhluongds/Multi-viewClustering_DiMMA)]
@@ -114,13 +114,10 @@ We now focus on distributed/decentralized optimization problems over manifold co
 - [2019] Solving Partial Least Squares Regression via Manifold Optimization Approaches, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/8408735)] [[Matlab](https://github.com/Haoran2014/PLSR_RM)]
 
 
-<a name="Journals" />
+<a name="Journal" />
 
-## Journals
+## Journal
 - IEEE Transactions on Pattern Analysis and Machine Intelligence  [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)]
-- IEEE Transactions on Neural Networks and Learning Systems  [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)]
-- IEEE Journal of Selected Topics in Signal Processing  [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690)]
 - IEEE Transactions on Automatic Control  [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9)]
 - IEEE Transactions on Signal Processing [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78)]
-- IEEE Signal Processing Letters [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97)]
 
