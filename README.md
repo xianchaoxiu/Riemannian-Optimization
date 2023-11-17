@@ -1,8 +1,9 @@
 # Distributed Optimization
 I am currently working on distributed/decentralized optimization problems on Riemannian Spaces.
 - [Surveys](#Surveys)
-- [Distributed Optimization on Euclidean Spaces](#Distributed_Optimization_on_Euclidean_Spaces)
-- [Distributed Optimization on Riemannian Spaces](#Distributed_Optimization_on_Riemannian_Spaces)
+- [On Euclidean Spaces](#On_Euclidean_Spaces)
+- [On Riemannian Spaces](#On_Riemannian_Spaces)
+- [Federated_Learning](#Federated_Learning)
 - [Applications](#Applications)
 - [Journals](#Journals)
 - [Tools](#Tools)
@@ -27,9 +28,9 @@ I am currently working on distributed/decentralized optimization problems on Rie
 
 
 
-<a name="Distributed_Optimization_on_Euclidean_Spaces" />
+<a name="on_Euclidean_Spaces" />
 
-## Distributed Optimization on Euclidean Spaces
+## On Euclidean Spaces
  [2022] Distributed Adaptive Newton Methods with Global Superlinear Convergence, Automatica [[Paper](https://www.sciencedirect.com/science/article/pii/S0005109821006865)]
 - [2022] Achieving Geometric Convergence for Distributed Optimization with Barzilai-Borwein Step Sizes, Science China Information Sciences  [[Paper](http://scis.scichina.com/en/2022/149204.pdf)]
 - [2021] On Distributed Nonconvex Optimization: Projected Subgradient Method for Weakly Convex Problems in Networks, IEEE TAC [[Paper](https://ieeexplore.ieee.org/abstract/document/9345428)]
@@ -40,9 +41,9 @@ I am currently working on distributed/decentralized optimization problems on Rie
 - [2010] Distributed Stochastic Subgradient Projection Algorithms for Convex Optimization, Journal of Optimization Theory and Applications [[Paper](https://link.springer.com/article/10.1007/s10957-010-9737-7)]
   
 
-<a name="Distributed_Optimization_on_Riemannian_Spaces" />
+<a name="On_Riemannian_Spaces" />
 
-## Distributed Optimization on Riemannian Spaces
+## On Riemannian Spaces
 - [2023] A Communication-Efficient and Privacy-Aware Distributed Algorithm for Sparse PCA, Computational Optimization and Applications [[Paper](https://link.springer.com/article/10.1007/s10589-023-00481-4)] [[C](http://lsec.cc.ac.cn/~liuxin/Solvers/DSSAL1.zip)]
 - [2022] Decentralized Optimization Over the Stiefel Manifold by an Approximate Augmented Lagrangian Function, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9798866)] [[Python](http://lsec.cc.ac.cn/~liuxin/Solvers/DEST.zip)]
 - [2022] FAST-PCA: A Fast and Exact Algorithm for Distributed Principal Component Analysis, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/10012289)]
