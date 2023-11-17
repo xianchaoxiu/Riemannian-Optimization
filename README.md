@@ -1,6 +1,5 @@
 # Distributed Optimization
-
-We now focus on distributed/decentralized optimization problems over manifold constraints.
+I am currently working on distributed/decentralized optimization problems over manifold constraints.
 - [Survey](#Survey)
 - [Manifold Learning](#Manifold_Learning)
 - [Distributed Learning](#Distributed_Learning)
