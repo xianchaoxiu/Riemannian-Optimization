@@ -1,5 +1,5 @@
 # Distributed Optimization
-I am currently working on distributed/decentralized optimization problems on Riemannian Spaces.
+I am currently working on distributed/decentralized optimization problems on Riemannian manifolds.
 - [Surveys](#Surveys)
 - [On Euclidean Spaces](#On_Euclidean_Spaces)
 - [On Riemannian Spaces](#On_Riemannian_Spaces)
