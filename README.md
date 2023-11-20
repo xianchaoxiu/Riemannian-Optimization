@@ -9,14 +9,14 @@ I am currently working on distributed/decentralized optimization problems on Rie
 - [Tools](#Tools)
 
     
-<strong> Last Update: 2023/11/16 </strong>
+<strong> Last Update: 2023/11/20 </strong>
 
 
 <a name="Surveys" />
 
 ## Surveys
 - [2023] Communication-Efficient Distributed Learning: An Overview, IEEE JSAC  [[Paper](https://ieeexplore.ieee.org/document/10038471)]
-- [2023] Federated Learning: A Signal Processing Perspective, IEEE SPM  [[Paper](https://ieeexplore.ieee.org/abstract/document/9770266)]
+- [2022] Federated Learning: A Signal Processing Perspective, IEEE SPM  [[Paper](https://ieeexplore.ieee.org/abstract/document/9770266)]
 - [2021] A Comprehensive Survey of Privacy-preserving Federated Learning: A Taxonomy, Review, and Future Directions, ACM Computing Surveys [[Paper](https://dl.acm.org/doi/abs/10.1145/3460427)]
 - [2021] A Survey on Federated Learning: The Journey From Centralized to Distributed On-Site Learning and Beyond, IEEE JIOT [[Paper](https://ieeexplore.ieee.org/abstract/document/9220780)]
 - [2020] First-order and Stochastic Optimization Methods for Machine Learning, Springer [[Book](https://link.springer.com/content/pdf/10.1007/978-3-030-39568-1.pdf)]
@@ -70,6 +70,8 @@ I am currently working on distributed/decentralized optimization problems on Rie
 ## Applications
 - [2023] Communication-Efficient Federated Linear and Deep Generalized Canonical Correlation Analysis, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/10099447)] [[Python](https://github.com/XiaoFuLab/federated_max_var_gcca)]
 - [2023] Federated PCA on Grassmann Manifold for Anomaly Detection in IoT Networks, IEEE INFOCOM [[Paper](https://ieeexplore.ieee.org/abstract/document/10229026)]
+- [2016] Distributed Compressive Sensing: A Deep Learning Approach, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/7457684)] 
+
 
 
 
