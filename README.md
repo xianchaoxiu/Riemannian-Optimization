@@ -15,6 +15,8 @@ I am currently working on distributed/decentralized optimization problems on Rie
 <a name="Surveys" />
 
 ## Surveys
+- [2023] Communication-Efficient Distributed Learning: An Overview, IEEE JSAC  [[Paper](https://ieeexplore.ieee.org/document/10038471)]
+- [2023] Federated Learning: A Signal Processing Perspective, IEEE SPM  [[Paper](https://ieeexplore.ieee.org/abstract/document/9770266)]
 - [2021] A Comprehensive Survey of Privacy-preserving Federated Learning: A Taxonomy, Review, and Future Directions, ACM Computing Surveys [[Paper](https://dl.acm.org/doi/abs/10.1145/3460427)]
 - [2021] A Survey on Federated Learning: The Journey From Centralized to Distributed On-Site Learning and Beyond, IEEE JIOT [[Paper](https://ieeexplore.ieee.org/abstract/document/9220780)]
 - [2020] First-order and Stochastic Optimization Methods for Machine Learning, Springer [[Book](https://link.springer.com/content/pdf/10.1007/978-3-030-39568-1.pdf)]
