@@ -2,7 +2,7 @@
 I am currently working on distributed/decentralized optimization problems on Riemannian manifolds.
 - [Surveys](#Surveys)
 - [Distributed Optimization](#Distributed_Optimization)
-- [Federated_Optimization](#Federated_Optimization)
+- [Federated Learning](#Federated_Learning)
 - [Journals](#Journals)
 - [Tools](#Tools)
 
@@ -56,9 +56,9 @@ I am currently working on distributed/decentralized optimization problems on Rie
 
 
 
-<a name="Federated_Optimization" />
+<a name="Federated_Learning" />
 
-## Federated Optimization
+## Federated Learning
 - [2023] Federated Learning via Inexact ADMM, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10040221)] [[Matlab](https://github.com/ShenglongZhou/FedADMM)]
 - [2023] FedGiA: An Efficient Hybrid Algorithm for Federated Learning, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10106001)] [[Matlab](https://github.com/ShenglongZhou/FedGiA)]
 - [2023] Communication-Efficient Federated Linear and Deep Generalized Canonical Correlation Analysis, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/10099447)] [[Python](https://github.com/XiaoFuLab/federated_max_var_gcca)]
