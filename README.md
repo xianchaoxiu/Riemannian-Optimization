@@ -60,9 +60,11 @@ I am currently working on distributed/decentralized optimization problems on Rie
 <a name="Federated_Learning" />
 
 ## Federated Learning
+- [2023] Decentralized Federated Averaging, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9850408)]
 - [2023] Federated Learning via Inexact ADMM, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10040221)] [[Matlab](https://github.com/ShenglongZhou/FedADMM)]
 - [2023] FedGiA: An Efficient Hybrid Algorithm for Federated Learning, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10106001)] [[Matlab](https://github.com/ShenglongZhou/FedGiA)]
 - [2022] Federated Learning Meets Multi-Objective Optimization, IEEE TNSE [[Paper](https://ieeexplore.ieee.org/abstract/document/9762229)]
+- [2017] Communication-Efficient Learning of Deep Networks from Decentralized Data, ICML [[Paper](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)] [[Python](https://github.com/AshwinRJ/Federated-Learning-PyTorch)]
 
 
 
