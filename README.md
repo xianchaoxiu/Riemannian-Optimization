@@ -1,10 +1,8 @@
 # Distributed Optimization
 I am currently working on distributed/decentralized optimization problems on Riemannian manifolds.
 - [Surveys](#Surveys)
-- [On Euclidean Spaces](#On_Euclidean_Spaces)
-- [On Riemannian Spaces](#On_Riemannian_Spaces)
-- [Federated_Learning](#Federated_Learning)
-- [Applications](#Applications)
+- [Distributed Optimization](#Distributed_Optimization)
+- [Federated_Optimization](#Federated_Optimization)
 - [Journals](#Journals)
 - [Tools](#Tools)
 
@@ -30,22 +28,24 @@ I am currently working on distributed/decentralized optimization problems on Rie
 
 
 
-<a name="on_Euclidean_Spaces" />
+<a name="Distributed_Optimization" />
 
-## On Euclidean Spaces
+## Distributed Optimization
+
+### Euclidean Spaces
  [2022] Distributed Adaptive Newton Methods with Global Superlinear Convergence, Automatica [[Paper](https://www.sciencedirect.com/science/article/pii/S0005109821006865)]
 - [2022] Achieving Geometric Convergence for Distributed Optimization with Barzilai-Borwein Step Sizes, Science China Information Sciences  [[Paper](http://scis.scichina.com/en/2022/149204.pdf)]
 - [2021] On Distributed Nonconvex Optimization: Projected Subgradient Method for Weakly Convex Problems in Networks, IEEE TAC [[Paper](https://ieeexplore.ieee.org/abstract/document/9345428)]
 - [2021] A Penalty Alternating Direction Method of Multipliers for Convex Composite Optimization Over Decentralized Networks, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9466405)]
 - [2017] Non-Convex Distributed Optimization, IEEE TAC [[Paper](https://ieeexplore.ieee.org/abstract/document/7807315)]
+- [2016] Distributed Compressive Sensing: A Deep Learning Approach, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/7457684)]  [[Matlab](https://github.com/hamidpalangi/Distributed-Compressive-Sensing-A-Deep-Learning-Approach)] 
 - [2016] On the Convergence of Decentralized Gradient Descent, SIAM Journal on Optimization [[Paper](https://epubs.siam.org/doi/abs/10.1137/130943170)]
 - [2015] EXTRA: An Exact First-Order Algorithm for Decentralized Consensus Optimization, SIAM Journal on Optimization [[Paper](https://epubs.siam.org/doi/abs/10.1137/14096668X)]
 - [2010] Distributed Stochastic Subgradient Projection Algorithms for Convex Optimization, Journal of Optimization Theory and Applications [[Paper](https://link.springer.com/article/10.1007/s10957-010-9737-7)]
   
 
-<a name="On_Riemannian_Spaces" />
 
-## On Riemannian Spaces
+### Riemannian Spaces
 - [2023] A Communication-Efficient and Privacy-Aware Distributed Algorithm for Sparse PCA, Computational Optimization and Applications [[Paper](https://link.springer.com/article/10.1007/s10589-023-00481-4)] [[C](http://lsec.cc.ac.cn/~liuxin/Solvers/DSSAL1.zip)]
 - [2022] Decentralized Optimization Over the Stiefel Manifold by an Approximate Augmented Lagrangian Function, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9798866)] [[Python](http://lsec.cc.ac.cn/~liuxin/Solvers/DEST.zip)]
 - [2022] FAST-PCA: A Fast and Exact Algorithm for Distributed Principal Component Analysis, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/10012289)]
@@ -56,21 +56,17 @@ I am currently working on distributed/decentralized optimization problems on Rie
 
 
 
-<a name="Federated_Learning" />
+<a name="Federated_Optimization" />
 
-## Federated Learning
+## Federated Optimization
 - [2023] Federated Learning via Inexact ADMM, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10040221)] [[Matlab](https://github.com/ShenglongZhou/FedADMM)]
 - [2023] FedGiA: An Efficient Hybrid Algorithm for Federated Learning, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10106001)] [[Matlab](https://github.com/ShenglongZhou/FedGiA)]
+- [2023] Communication-Efficient Federated Linear and Deep Generalized Canonical Correlation Analysis, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/10099447)] [[Python](https://github.com/XiaoFuLab/federated_max_var_gcca)]
+- [2023] Federated PCA on Grassmann Manifold for Anomaly Detection in IoT Networks, IEEE INFOCOM [[Paper](https://ieeexplore.ieee.org/abstract/document/10229026)] [[Python](https://github.com/dual-grp/FedPCA_Abnormal_Detection)]
+- [2022] A New Look and Convergence Rate of Federated Multitask Learning With Laplacian Regularization, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/9975151)] [[Python](https://github.com/CharlieDinh/FedU_FMTL)]
 - [2022] Federated Learning Meets Multi-Objective Optimization, IEEE TNSE [[Paper](https://ieeexplore.ieee.org/abstract/document/9762229)]
 
 
-
-<a name="Applications" />
-  
-## Applications
-- [2023] Communication-Efficient Federated Linear and Deep Generalized Canonical Correlation Analysis, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/10099447)] [[Python](https://github.com/XiaoFuLab/federated_max_var_gcca)]
-- [2023] Federated PCA on Grassmann Manifold for Anomaly Detection in IoT Networks, IEEE INFOCOM [[Paper](https://ieeexplore.ieee.org/abstract/document/10229026)]
-- [2016] Distributed Compressive Sensing: A Deep Learning Approach, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/7457684)] 
 
 
 
