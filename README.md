@@ -75,6 +75,8 @@ I am currently working on distributed/decentralized optimization problems on Rie
 - [2023] Federated PCA on Grassmann Manifold for Anomaly Detection in IoT Networks, IEEE INFOCOM [[Paper](https://ieeexplore.ieee.org/abstract/document/10229026)] [[Python](https://github.com/dual-grp/FedPCA_Abnormal_Detection)]
 - [2022] A New Look and Convergence Rate of Federated Multitask Learning With Laplacian Regularization, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/9975151)] [[Python](https://github.com/CharlieDinh/FedU_FMTL)]
 - [2021] Federated Learning Over Wireless Networks: Convergence Analysis and Resource Allocation, IEEE/ACM TNET [[Paper](https://ieeexplore.ieee.org/abstract/document/9261995)] [[Python](https://github.com/CharlieDinh/FEDL_pytorch)]
+- [2020] Personalized Federated Learning with Moreau Envelopes, NIPS [[Paper](https://proceedings.neurips.cc/paper/2020/file/f4f1f13c8289ac1b1ee0ff176b56fc60-Paper.pdf)] [[Python](https://github.com/CharlieDinh/pFedMe)]
+- [2020] Federated Learning for Edge Networks: Resource Optimization and Incentive Mechanism, IEEE MCOM [[Paper](https://ieeexplore.ieee.org/abstract/document/9247530)] 
 
 
 
