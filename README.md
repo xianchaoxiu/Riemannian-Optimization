@@ -33,7 +33,7 @@ I am currently working on distributed/decentralized optimization problems on Rie
 ## Distributed Optimization
 
 ### Euclidean Spaces
- [2022] Distributed Adaptive Newton Methods with Global Superlinear Convergence, Automatica [[Paper](https://www.sciencedirect.com/science/article/pii/S0005109821006865)]
+- [2022] Distributed Adaptive Newton Methods with Global Superlinear Convergence, Automatica [[Paper](https://www.sciencedirect.com/science/article/pii/S0005109821006865)]
 - [2022] Achieving Geometric Convergence for Distributed Optimization with Barzilai-Borwein Step Sizes, Science China Information Sciences  [[Paper](http://scis.scichina.com/en/2022/149204.pdf)]
 - [2021] On Distributed Nonconvex Optimization: Projected Subgradient Method for Weakly Convex Problems in Networks, IEEE TAC [[Paper](https://ieeexplore.ieee.org/abstract/document/9345428)]
 - [2021] A Penalty Alternating Direction Method of Multipliers for Convex Composite Optimization Over Decentralized Networks, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9466405)]
