@@ -3,6 +3,7 @@ I am currently working on distributed/decentralized optimization problems on Rie
 - [Surveys](#Surveys)
 - [Distributed Optimization](#Distributed_Optimization)
 - [Federated Learning](#Federated_Learning)
+- [Applications](#Applications)
 - [Journals](#Journals)
 - [Tools](#Tools)
 
@@ -61,13 +62,17 @@ I am currently working on distributed/decentralized optimization problems on Rie
 ## Federated Learning
 - [2023] Federated Learning via Inexact ADMM, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10040221)] [[Matlab](https://github.com/ShenglongZhou/FedADMM)]
 - [2023] FedGiA: An Efficient Hybrid Algorithm for Federated Learning, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10106001)] [[Matlab](https://github.com/ShenglongZhou/FedGiA)]
-- [2023] Communication-Efficient Federated Linear and Deep Generalized Canonical Correlation Analysis, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/10099447)] [[Python](https://github.com/XiaoFuLab/federated_max_var_gcca)]
-- [2023] Federated PCA on Grassmann Manifold for Anomaly Detection in IoT Networks, IEEE INFOCOM [[Paper](https://ieeexplore.ieee.org/abstract/document/10229026)] [[Python](https://github.com/dual-grp/FedPCA_Abnormal_Detection)]
-- [2022] A New Look and Convergence Rate of Federated Multitask Learning With Laplacian Regularization, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/9975151)] [[Python](https://github.com/CharlieDinh/FedU_FMTL)]
 - [2022] Federated Learning Meets Multi-Objective Optimization, IEEE TNSE [[Paper](https://ieeexplore.ieee.org/abstract/document/9762229)]
 
 
 
+<a name="Applications" />
+
+## Applications
+
+- [2023] Federated PCA on Grassmann Manifold for Anomaly Detection in IoT Networks, IEEE INFOCOM [[Paper](https://ieeexplore.ieee.org/abstract/document/10229026)] [[Python](https://github.com/dual-grp/FedPCA_Abnormal_Detection)]
+- [2022] A New Look and Convergence Rate of Federated Multitask Learning With Laplacian Regularization, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/9975151)] [[Python](https://github.com/CharlieDinh/FedU_FMTL)]
+- [2021] Federated Learning Over Wireless Networks: Convergence Analysis and Resource Allocation, IEEE/ACM TNET [[Paper](https://ieeexplore.ieee.org/abstract/document/9261995)] [[Python](https://github.com/CharlieDinh/FEDL_pytorch)]
 
 
 
