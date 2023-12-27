@@ -3,7 +3,6 @@ I am currently working on distributed/decentralized optimization problems on Rie
 - [Surveys](#Surveys)
 - [Riemannian Optimization](#Riemannian_Optimization)
 - [Distributed Optimization](#Distributed_Optimization)
-- [Federated Learning](#Federated_Learning)
 - [Applications](#Applications)
 - [Journals](#Journals)
 - [Tools](#Tools)
@@ -69,7 +68,7 @@ I am currently working on distributed/decentralized optimization problems on Rie
 - [2014] A Splitting Method for Orthogonality Constrained Problems, Journal of Scientific Computing [[Paper](https://link.springer.com/article/10.1007/s10915-013-9740-x)]
   
 
-## Learning Methods
+### Learning Methods
 - [2023] Learning to Optimize on Riemannian Manifolds, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9925104)] [[Python](https://github.com/zhigao2017/learningriemannianoptimization)]
 - [2021] Orthogonal Deep Neural Networks, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/8877742)] [[Python](https://github.com/Gorilla-Lab-SCUT/OrthDNNs)]
 - [2020] Learning to Optimize on SPD Manifolds, CVPR [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Gao_Learning_to_Optimize_on_SPD_Manifolds_CVPR_2020_paper.html)] [[Python](https://github.com/zhigao2017/Learning-to-optimize-on-SPD-manifolds)]
@@ -81,7 +80,9 @@ I am currently working on distributed/decentralized optimization problems on Rie
 
 ## Distributed Optimization
 
-### Euclidean Spaces
+### Distributed Optimization
+- [2023] A Communication-Efficient and Privacy-Aware Distributed Algorithm for Sparse PCA, Computational Optimization and Applications [[Paper](https://link.springer.com/article/10.1007/s10589-023-00481-4)] [[C](http://lsec.cc.ac.cn/~liuxin/Solvers/DSSAL1.zip)]
+- [2022] Decentralized Optimization Over the Stiefel Manifold by an Approximate Augmented Lagrangian Function, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9798866)] [[Python](http://lsec.cc.ac.cn/~liuxin/Solvers/DEST.zip)]
 - [2022] Distributed Adaptive Newton Methods with Global Superlinear Convergence, Automatica [[Paper](https://www.sciencedirect.com/science/article/pii/S0005109821006865)]
 - [2022] Achieving Geometric Convergence for Distributed Optimization with Barzilai-Borwein Step Sizes, Science China Information Sciences  [[Paper](http://scis.scichina.com/en/2022/149204.pdf)]
 - [2021] On Distributed Nonconvex Optimization: Projected Subgradient Method for Weakly Convex Problems in Networks, IEEE TAC [[Paper](https://ieeexplore.ieee.org/abstract/document/9345428)]
@@ -93,21 +94,7 @@ I am currently working on distributed/decentralized optimization problems on Rie
 - [2010] Distributed Stochastic Subgradient Projection Algorithms for Convex Optimization, Journal of Optimization Theory and Applications [[Paper](https://link.springer.com/article/10.1007/s10957-010-9737-7)]
   
 
-
-### Riemannian Spaces
-- [2023] A Communication-Efficient and Privacy-Aware Distributed Algorithm for Sparse PCA, Computational Optimization and Applications [[Paper](https://link.springer.com/article/10.1007/s10589-023-00481-4)] [[C](http://lsec.cc.ac.cn/~liuxin/Solvers/DSSAL1.zip)]
-- [2022] Decentralized Optimization Over the Stiefel Manifold by an Approximate Augmented Lagrangian Function, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9798866)] [[Python](http://lsec.cc.ac.cn/~liuxin/Solvers/DEST.zip)]
-- [2022] FAST-PCA: A Fast and Exact Algorithm for Distributed Principal Component Analysis, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/10012289)]
-- [2021] Decentralized Riemannian gradient descent on the Stiefel manifold, ICML [[Paper](https://proceedings.mlr.press/v139/chen21g.html)] [[Python](https://github.com/chenshixiang/Decentralized_Riemannian_gradient_descent_on_Stiefel_manifold)]
-- [2021] Communication-Efficient Distributed Covariance Sketch, With Application to Distributed PCA, Journal of Machine Learning Research [[Paper](https://dl.acm.org/doi/abs/10.5555/3546258.3546338)]
-- [2021] Distributed Principal Component Analysis with Limited Communication, NIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/1680e9fa7b4dd5d62ece800239bb53bd-Abstract.html)] [[Matlab](https://github.com/IST-DASLab/QRGD)]
-- [2020] Communication-Efficient Distributed PCA by Riemannian Optimization, ICML [[Paper](https://proceedings.mlr.press/v119/huang20e.html)] [[Matlab](https://github.com/IST-DASLab/QRGD)]
-
-
-
-<a name="Federated_Learning" />
-
-## Federated Learning
+### Federated Learning
 - [2023] Decentralized Federated Averaging, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9850408)]
 - [2023] Federated Learning via Inexact ADMM, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10040221)] [[Matlab](https://github.com/ShenglongZhou/FedADMM)]
 - [2023] FedGiA: An Efficient Hybrid Algorithm for Federated Learning, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10106001)] [[Matlab](https://github.com/ShenglongZhou/FedGiA)]
@@ -121,15 +108,17 @@ I am currently working on distributed/decentralized optimization problems on Rie
 ## Applications
 
 - [2023] Federated PCA on Grassmann Manifold for Anomaly Detection in IoT Networks, IEEE INFOCOM [[Paper](https://ieeexplore.ieee.org/abstract/document/10229026)] [[Python](https://github.com/dual-grp/FedPCA_Abnormal_Detection)]
-- [2023] Robust and Sparse Principal Component Analysis With Adaptive Loss Minimization for Feature Selection, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/9870686)]
 - [2023] Discriminative subspace learning via optimization on Riemannian manifold, Pattern Recognition [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323001504)] [[Matlab](https://github.com/ncclabsustech/MODA-algorithm)]
 - [2022] A New Look and Convergence Rate of Federated Multitask Learning With Laplacian Regularization, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/9975151)] [[Python](https://github.com/CharlieDinh/FedU_FMTL)]
 - [2022] Trace Lasso Regularization for Adaptive Sparse Canonical Correlation Analysis via Manifold Optimization Approach, IEEE TKDE  [[Paper](https://ieeexplore.ieee.org/document/9187560)] [[Matlab](https://github.com/KKDeng/ASCCA)]
-- [2022] Learning Inter- and Intra-Manifolds for Matrix Factorization-Based Multi-Aspect Data Clustering, IEEE TKDE  [[Paper](https://link.springer.com/article/10.1007/s40305-022-00449-x)] [[Matlab](https://github.com/khanhluongds/Multi-viewClustering_DiMMA)]
+- [2022] FAST-PCA: A Fast and Exact Algorithm for Distributed Principal Component Analysis, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/10012289)]
 - [2021] Federated Learning Over Wireless Networks: Convergence Analysis and Resource Allocation, IEEE/ACM TNET [[Paper](https://ieeexplore.ieee.org/abstract/document/9261995)] [[Python](https://github.com/CharlieDinh/FEDL_pytorch)]
 - [2021] Deep Manifold Learning for Dynamic MR Imaging, IEEE TCI [[Paper](https://ieeexplore.ieee.org/abstract/document/9632354)] [[Python](https://github.com/Keziwen/Manifold_Net)]
+- [2021] Decentralized Riemannian gradient descent on the Stiefel manifold, ICML [[Paper](https://proceedings.mlr.press/v139/chen21g.html)] [[Python](https://github.com/chenshixiang/Decentralized_Riemannian_gradient_descent_on_Stiefel_manifold)]
+- [2021] Communication-Efficient Distributed Covariance Sketch, With Application to Distributed PCA, Journal of Machine Learning Research [[Paper](https://dl.acm.org/doi/abs/10.5555/3546258.3546338)]
+- [2021] Distributed Principal Component Analysis with Limited Communication, NIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/1680e9fa7b4dd5d62ece800239bb53bd-Abstract.html)] [[Matlab](https://github.com/IST-DASLab/QRGD)]
+- [2020] Communication-Efficient Distributed PCA by Riemannian Optimization, ICML [[Paper](https://proceedings.mlr.press/v119/huang20e.html)] [[Matlab](https://github.com/IST-DASLab/QRGD)]
 - [2020] Personalized Federated Learning with Moreau Envelopes, NIPS [[Paper](https://proceedings.neurips.cc/paper/2020/file/f4f1f13c8289ac1b1ee0ff176b56fc60-Paper.pdf)] [[Python](https://github.com/CharlieDinh/pFedMe)]
-- [2020] Federated Learning for Edge Networks: Resource Optimization and Incentive Mechanism, IEEE MCOM [[Paper](https://ieeexplore.ieee.org/abstract/document/9247530)] 
 - [2020] An Alternating Manifold Proximal Gradient Method for Sparse Principal Component Analysis and Sparse Canonical Correlation Analysis, INFORMS Journal on Optimization [[Paper](https://pubsonline.informs.org/doi/abs/10.1287/ijoo.2019.0032)] [[Matlab](https://github.com/chenshixiang)]
 - [2019] Solving Partial Least Squares Regression via Manifold Optimization Approaches, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/8408735)] [[Matlab](https://github.com/Haoran2014/PLSR_RM)]
 
@@ -145,5 +134,5 @@ I am currently working on distributed/decentralized optimization problems on Rie
 <a name="Tools" />
 
 ## Tools
-- Manopt: A matlab Toolbox for Optimization on Manifolds  [[Link](https://www.manopt.org/)]
+- Manopt: A Matlab Toolbox for Optimization on Manifolds  [[Link](https://www.manopt.org/)]
 - STOP: A Toolbox for Stiefel Manifold Optimization [[Link](https://stmopt.gitee.io/)]
