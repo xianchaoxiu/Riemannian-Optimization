@@ -121,9 +121,8 @@ I am currently working on distributed/decentralized optimization problems on Rie
 
 ## Journals
 - IEEE Transactions on Pattern Analysis and Machine Intelligence  [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)]
-- IEEE Transactions on Automatic Control  [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9)]
 - IEEE Transactions on Signal Processing [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78)]
-
+- Journal of Scientific Computing  [[Link](https://www.springer.com/journal/10915)]
 
 <a name="Tools" />
 
