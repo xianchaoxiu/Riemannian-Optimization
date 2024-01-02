@@ -84,7 +84,7 @@ I am currently working on optimization problems on Riemannian manifolds.
 
 ## Journals
 - IEEE Transactions on Pattern Analysis and Machine Intelligence  [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)]
-- IEEE Transactions on Signal Processing [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78)]
+- Journal of Machine Learning Research [[Link](https://jmlr.org/)]
 - Journal of Scientific Computing  [[Link](https://www.springer.com/journal/10915)]
 
 <a name="Tools" />
