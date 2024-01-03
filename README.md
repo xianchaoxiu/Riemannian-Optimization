@@ -16,6 +16,7 @@ I am currently working on optimization problems on Riemannian manifolds.
 
 ## Surveys
 - [2023] An Introduction to Optimization on Smooth Manifolds, Cambridge University Press [[Book](https://www.nicolasboumal.net/book/)] [[Video](https://www.nicolasboumal.net/book/index.html#lectures)]
+- [2021] Riemannian Optimization and Its Applications, Springer  [[Book](https://link.springer.com/book/10.1007/978-3-030-62391-3)]
 - [2020] A Brief Introduction to Manifold Optimization, Journal of the Operations Research Society of China [[Paper](https://link.springer.com/article/10.1007/s40305-020-00295-9)]
 - [2008] Optimization Algorithms on Matrix Manifolds, Princeton University Press [[Book](https://press.princeton.edu/absil)]
 
