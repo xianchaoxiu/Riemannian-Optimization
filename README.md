@@ -5,8 +5,7 @@ I am currently working on optimization problems on Riemannian manifolds.
 - [Infeasible Methods](#infeasible_Methods)
 - [Learning Methods](#Learning_Methods)
 - [Applications](#Applications)
-- [Journals](#Journals)
-- [Tools](#Tools)
+- [Links](#Links)
 
     
 <strong> Last Update: 2023/11/20 </strong>
@@ -81,15 +80,14 @@ I am currently working on optimization problems on Riemannian manifolds.
 - [2019] Solving Partial Least Squares Regression via Manifold Optimization Approaches, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/8408735)] [[Matlab](https://github.com/Haoran2014/PLSR_RM)]
 
 
-<a name="Journals" />
+<a name="Links" />
 
-## Journals
+## Links 
+### Journals
 - IEEE Transactions on Pattern Analysis and Machine Intelligence  [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)]
 - Journal of Machine Learning Research [[Link](https://jmlr.org/)]
 - Journal of Scientific Computing  [[Link](https://www.springer.com/journal/10915)]
 
-<a name="Tools" />
-
-## Tools
+### Tools
 - Manopt: A Matlab Toolbox for Optimization on Manifolds  [[Link](https://www.manopt.org/)]
 - STOP: A Toolbox for Stiefel Manifold Optimization [[Link](https://stmopt.gitee.io/)]
